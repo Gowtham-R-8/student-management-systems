@@ -1,0 +1,10 @@
+com\example\student\controller\RestStudentController.class
+com\example\student\StudentManagement1Application.class
+com\example\student\controller\LoginController.class
+com\example\student\repository\StudentRepository.class
+com\example\student\repository\UserRepository.class
+com\example\student\controller\StudentController.class
+com\example\student\model\Student.class
+com\example\student\service\UserService.class
+com\example\student\model\User.class
+com\example\student\service\StudentService.class
